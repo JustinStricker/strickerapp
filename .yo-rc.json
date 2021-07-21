@@ -90,6 +90,9 @@
       "uz-Cyrl-uz",
       "uz-Latn-uz",
       "vi"
-    ]
+    ],
+    "herokuAppName": "strickerapp",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
