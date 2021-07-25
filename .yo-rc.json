@@ -45,6 +45,8 @@
     "languages": ["en"],
     "herokuAppName": "strickerapp",
     "herokuDeployType": "git",
-    "herokuJavaVersion": "11"
+    "herokuJavaVersion": "11",
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1627179369000
   }
 }
