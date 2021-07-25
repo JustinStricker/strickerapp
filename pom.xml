@@ -7,9 +7,9 @@
 
     <groupId>com.tidyox.strickerapp</groupId>
     <artifactId>strickerapp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
-    <name>Strickerapp</name>
+    <name>strickerapp</name>
 
     <repositories>
         <!-- jhipster-needle-maven-repository -->
